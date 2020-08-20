@@ -1,0 +1,3 @@
+Stack. Because of its LIFO Last In First Out property it remembers its caller so knows whom to return when the function has to return. Recursion makes use of system stack for storing the return addresses of the function calls.
+Every recursive function has its equivalent iterative (non-recursive) function. Even when such equivalent iterative procedures are written, explicit stack is to be used.
+A stack allows you to keep a bookmark of the state while you go off to calculate downstream. When you get back to the bookmark, you pop it off the stack and complete the computation.

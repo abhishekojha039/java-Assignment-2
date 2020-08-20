@@ -1,0 +1,9 @@
+The main purpose of data structure is to arrange huge no of element in such a way that insertion, deletion, searching can be performed fastly and efficiently.
+Stack is used to convert infix expression to its equivalent to postfix expression. It is also used to evaluate value postfix expression. In recursion system stack is created to store previous value of the recursive function.
+
+Queue is used to implement the concept of scheduling algorithm of process management. In first come first serve scheduling modified queue is used. In round robin scheduling the concept or circular queue is used. In priority based scheduling the concept of priority queue is used. Queue is also used to convert infix expression to its equivalent prefix expression. It is also used in topological shorting by which appropriate topology to connect computer and internet.
+
+List is used to store huge no of records in sequential form. Using the concept of list sequential file management is implemented.
+Graph is used to establish any network system LAN, WAN, MAN. It is also used in mobile networking. Graph is used to implement problem of transportation establish traffic system of a city.
+
+Tree is used to search element very fastly. Generally, the concept of tree is used to implement the concept of DBMS. In DBMS generally the concept of B- tree is internally implemented to arrange huge number of records.

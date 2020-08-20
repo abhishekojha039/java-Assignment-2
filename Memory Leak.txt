@@ -1,0 +1,3 @@
+A memory leak is a situation when a program allocates dynamic memory and then loses all pointers to that memory, therefor it can neither address nor free it. memory remains marked as allocated, so it will never be returned when more memory is requested by the program
+Memory leak occurs when programmers create a memory in heap and forget to delete it.
+Memory leaks are particularly serious issues for programs like daemons and servers which by definition never terminate.

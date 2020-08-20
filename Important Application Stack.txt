@@ -1,0 +1,17 @@
+Application of stack are
+
+Backtracking​​
+Backtracking is a recursive algorithm which is used for solving the optimization problem.
+So, In order to find the optimized solution of a problem with Backtracking, we have to find each and every possible solution of the problem, doesn’t matter if it is correct or not.
+
+Function Call​​
+In Programming, whenever you make a call from one function to the another function. The address of the calling function gets stored in the Stack.
+So, when the called function gets terminated. The program control move back to the calling function with the help of the address which was stored in the Stack.
+
+Parenthesis Checking​​
+In Programming, we make use of different type of parenthesis, like – (, ), {, }, which are used for opening and closing a block of code.
+So, these parenthesis get stored in Stack and control the flow of our program.
+
+String Reversal​
+String Reversal is another amazing Application of Stack. Here, one by one each character of the Stack get inserted into the Stack.
+So, the first character of the Stack is on the bottom of the Stack and the last character of the String is on the Top of the Stack.

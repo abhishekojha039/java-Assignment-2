@@ -1,0 +1,9 @@
+Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.
+
+ Integer, Float, Boolean, Char etc, all are data structures. They are known as Primitive Data Structures.
+some complex Data Structures, which are used to store large and connected data. Some example of Abstract Data Structure are :
+
+Linked List
+Tree
+Graph
+Stack, Queue 

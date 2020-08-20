@@ -1,0 +1,1 @@
+Priority queues r applied using 2-D array where it has two rows one for element and second for priority ,so minimum numbers of queues are needed to implement are two.

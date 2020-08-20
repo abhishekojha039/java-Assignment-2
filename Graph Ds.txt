@@ -1,0 +1,11 @@
+Graphs are nothing but connected nodes(vertex). So any network related, routing, finding relation, path etc related real life applications use graphs.
+
+Connecting with friends on social media, where each user is a vertex, and when users connect they create an edge.
+
+Using GPS/Google Maps/Yahoo Maps, to find a route based on shortest route.
+
+Google, to search for webpages, where pages on the internet are linked to each other by hyperlinks; each page is a vertex and the link between two pages is an edge.
+
+On eCommerce websites relationship graphs are used to show recommendations.
+
+To find the shortest path between two vertex Consider each vertex as a City.
